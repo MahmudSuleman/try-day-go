@@ -1,0 +1,18 @@
+ 
+Difficulty Levels:
+    For example, easy (1-10), medium (1-50), hard (1-100), etc.
+
+ 
+Score Tracking:
+    Implement a scoring system where fewer attempts result in a higher score.
+
+Time Limit: 
+    Add a time limit for each guess.
+    
+ 
+Customizable Settings: 
+    Allow the player to customize game settings such as difficulty level, number of attempts allowed, time limit, etc.
+
+Sound Effects:
+    Add sound effects to enhance the gaming experience. For example, a sound effect indicating a correct guess, an incorrect guess, etc.
+ 
